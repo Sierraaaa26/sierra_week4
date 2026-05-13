@@ -1,0 +1,83 @@
+body {
+    position: relative;
+}
+
+header {
+    background-color: lightgreen;
+}
+
+section {
+    background-color: paleturquoise;
+}
+
+article {
+    background-color: plum;
+}
+
+aside {
+    background-color: lavender;
+    max-width: 800px;
+}
+
+div {
+    background-color: lightgoldenrodyellow;
+    max-width: 80%;
+}
+
+.colorbox {
+    padding: 5px;
+     margin: 50px; 
+     display: block;
+    max-width: 100%;
+}
+
+.boxy.square {
+    border: 2px solid red;
+    border-radius: 15px;
+}
+ul {
+    list-style-type: none;  
+    margin: 0;  
+    padding: 0; 
+}
+
+li {
+    display: inline;  
+    
+    float: left; 
+}
+li a {
+    display: block; 
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #aaa;
+}
+
+h2 {
+    color: hotpink;
+    margin: 10px 20px 0;
+}
+
+h2 {
+    text-color: hotpink;
+    margin: 10px 0 20px 20px;
+}
+
+h2 {
+    color: hotpink;
+    margin: 10px 20px 20px 0;
+}
+
+h2 {
+    color: hotpink;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 0;
+    margin-left: 20px;
+}
+
+
+
+
